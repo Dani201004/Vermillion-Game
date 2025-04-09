@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89557dec81ae674a83b56e30b48672a, type: 3}
+  m_Name: Castigo Divino
+  m_EditorClassIdentifier: 
+  Data:
+    Name: Castigo Divino
+    ScalingPercent: 4
+    UseMagic: 0
+    DiceType: D20
+    RequiredRoll: 19
+    ManaCost: 0
+    attackAnimationTrigger: 
+    skillEffect:
+      applyDamageToAllEnemies: 0
+      applyHealToAllAllies: 0
+      applyBuffToAllAllies: 0
+      applyDefenseDebuffToEnemies: 0
+      baseDamageAmount: 50
+      baseHealAmount: 30
+      baseBuffAmount: 10
+      defenseDebuffAmount: 5
+      statToBuff: 
+  skillName: Castigo Divino
+  isPassive: 0
+  skillImage: {fileID: 2800000, guid: e60ed073adaf95f4ab78dc91f70d89e0, type: 3}
+  langDesc: Eres el estandarte de la rectitud y lo justo. Por eso los dioses te escogieron
+    para impartir sus castigos. d20
+  isCustom: 0

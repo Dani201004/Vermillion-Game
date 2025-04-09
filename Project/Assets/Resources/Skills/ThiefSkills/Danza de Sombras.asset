@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89557dec81ae674a83b56e30b48672a, type: 3}
+  m_Name: Danza de Sombras
+  m_EditorClassIdentifier: 
+  Data:
+    Name: Danza de sombras
+    ScalingPercent: 1.2
+    UseMagic: 0
+    DiceType: D20
+    RequiredRoll: 12
+    ManaCost: 0
+    attackAnimationTrigger: 
+    skillEffect:
+      applyDamageToAllEnemies: 1
+      applyHealToAllAllies: 0
+      applyBuffToAllAllies: 0
+      applyDefenseDebuffToEnemies: 0
+      baseDamageAmount: 60
+      baseHealAmount: 0
+      baseBuffAmount: 0
+      defenseDebuffAmount: 0
+      statToBuff: 
+  skillName: Danza de sombras
+  isPassive: 0
+  skillImage: {fileID: 2800000, guid: 8e13e2ab1958ecd4bb4f44dfcd0e49f3, type: 3}
+  langDesc: "Tu vida como ladron te ha ense\xF1ado a esquivar incluso donde la luz
+    no atraviesa. d20"
+  isCustom: 0

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89557dec81ae674a83b56e30b48672a, type: 3}
+  m_Name: Cometa Arcano
+  m_EditorClassIdentifier: 
+  Data:
+    Name: Cometa Arcano
+    ScalingPercent: 0.6
+    UseMagic: 1
+    DiceType: D6
+    RequiredRoll: 3
+    ManaCost: 8
+    attackAnimationTrigger: 
+    skillEffect:
+      applyDamageToAllEnemies: 0
+      applyHealToAllAllies: 0
+      applyBuffToAllAllies: 0
+      applyDefenseDebuffToEnemies: 1
+      baseDamageAmount: 0
+      baseHealAmount: 0
+      baseBuffAmount: 0
+      defenseDebuffAmount: 5
+      statToBuff: 
+  skillName: Cometa Arcano
+  isPassive: 0
+  skillImage: {fileID: 2800000, guid: 3c774eafafaf4ea4aa0436439993c2b8, type: 3}
+  langDesc: Usas el poder de las estrellas a tu favor invocando astros hacia tus
+    enemigos. d6
+  isCustom: 0

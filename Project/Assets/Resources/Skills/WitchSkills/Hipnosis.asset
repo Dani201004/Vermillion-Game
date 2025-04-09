@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89557dec81ae674a83b56e30b48672a, type: 3}
+  m_Name: Hipnosis
+  m_EditorClassIdentifier: 
+  Data:
+    Name: Hipnosis
+    ScalingPercent: 1.2
+    UseMagic: 1
+    DiceType: D20
+    RequiredRoll: 16
+    ManaCost: 33
+    attackAnimationTrigger: 
+    skillEffect:
+      applyDamageToAllEnemies: 1
+      applyHealToAllAllies: 0
+      applyBuffToAllAllies: 1
+      applyDefenseDebuffToEnemies: 0
+      baseDamageAmount: 40
+      baseHealAmount: 0
+      baseBuffAmount: 10
+      defenseDebuffAmount: 0
+      statToBuff: Attack
+  skillName: Hipnosis
+  isPassive: 0
+  skillImage: {fileID: 2800000, guid: b19e48afbf6eb574bbd8e9861817d14e, type: 3}
+  langDesc: Despues de haber estudiado los textos arcanos conseguiste un conocimiento
+    superior sobre la magia antigua. d20
+  isCustom: 0

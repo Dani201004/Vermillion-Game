@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4203910417198480307
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4722838880218741128}
+  - component: {fileID: 6544361208483489106}
+  m_Layer: 0
+  m_Name: Enemy Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4722838880218741128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4203910417198480307}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.4051642, y: -99.6775, z: 133.26485}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6544361208483489106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4203910417198480307}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d7089c951861240b9ea93166012d76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 1665507914302988720, guid: 730a10db0028b9048b4d8e4fa74b8087, type: 3}
+  - {fileID: 6013980467330438749, guid: abffd4e3ba72e8946922ebed28869010, type: 3}
+  - {fileID: 5514963001254124151, guid: a4fe0ac075926f446b3aa8ca8bc7b465, type: 3}
+  - {fileID: 840804888264846430, guid: de3a635baa4006940b385ac3458b370a, type: 3}
+  - {fileID: 1107591999075427547, guid: 0af49639e127eff40b703ae99863bfee, type: 3}
+  - {fileID: 108429880565565143, guid: 1d3cfce50da9d094fac75d1475860407, type: 3}
+  - {fileID: 2455767645455222870, guid: 907e7a6d8eab0e44d8001bb0c8cca0de, type: 3}
+  - {fileID: 3705425681516665046, guid: 161df47715ba4514eb1857e1a0baba06, type: 3}
+  - {fileID: 2134930033731656877, guid: 3f3b3eee3b49e414eba969f6e07f01ba, type: 3}
+  spawnPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  goblinBossPrefab: {fileID: 3619923768300867394, guid: 0fedd54d133212e4697cc04a615dd865, type: 3}
+  slimeBossPrefab: {fileID: 8503504459273217183, guid: dc043fef809111a43a831b99a14452b9, type: 3}
+  mushroomBossPrefab: {fileID: 1852304546249574037, guid: e0189159eec571f45bdb628e6c9f4dc6, type: 3}
+  enemyCount: 0
+  spawnRandomEnemies: 0
+  isBossFight: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89557dec81ae674a83b56e30b48672a, type: 3}
+  m_Name: Acometida2
+  m_EditorClassIdentifier: 
+  Data:
+    Name: Acometida2
+    ScalingPercent: 1.2
+    UseMagic: 0
+    DiceType: D20
+    RequiredRoll: 15
+    ManaCost: 0
+    attackAnimationTrigger: 
+  skillName: Acometida2
+  isPassive: 0
+  skillImage: {fileID: 2800000, guid: 3f5d672d43eac0544b605fc3fa306259, type: 3}
+  langDesc: "Cargas hacia el enemigo de enfrente infligiendo mucho da\xF1o d20"
+  statsGrown: []
+  isFlatStat: 0
+  fristStatMultiplier: []
+  secondStatMultiplier: []
+  terthStatMultiplier: []
+  isCustom: 0

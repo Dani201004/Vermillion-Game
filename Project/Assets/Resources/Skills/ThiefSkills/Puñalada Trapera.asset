@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89557dec81ae674a83b56e30b48672a, type: 3}
+  m_Name: "Pu\xF1alada Trapera"
+  m_EditorClassIdentifier: 
+  Data:
+    Name: "Pu\xF1alada Trapera"
+    ScalingPercent: 1.15
+    UseMagic: 0
+    DiceType: D20
+    RequiredRoll: 10
+    ManaCost: 0
+    attackAnimationTrigger: 
+    skillEffect:
+      applyDamageToAllEnemies: 0
+      applyHealToAllAllies: 0
+      applyBuffToAllAllies: 0
+      applyDefenseDebuffToEnemies: 0
+      baseDamageAmount: 50
+      baseHealAmount: 30
+      baseBuffAmount: 10
+      defenseDebuffAmount: 5
+      statToBuff: 
+  skillName: "Pu\xF1alada Trapera"
+  isPassive: 0
+  skillImage: {fileID: 2800000, guid: 4a52010e0c5b82d4f9048a80eecb5de4, type: 3}
+  langDesc: Asestas una cuchillada en el costado de tu enemigo causando dolencia.
+    d6
+  isCustom: 0

@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5558233499730457998
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 194.91
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.012
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -186.04
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.49358076
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8697
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 120.848
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5490551285439392770, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 43.88
+      objectReference: {fileID: 0}
+    - target: {fileID: -5490551285439392770, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.53
+      objectReference: {fileID: 0}
+    - target: {fileID: -5490551285439392770, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_Name
+      value: Pozo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849762623622064168, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3924232458257576202, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 43.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 3924232458257576202, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 3924232458257576202, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4865064391339405807, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 6732398567079961185, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.071
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -7640558969779515294, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7006241621993537607}
+    - targetCorrespondingSourceObject: {fileID: 3849762623622064168, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6750874515200506178}
+    - targetCorrespondingSourceObject: {fileID: 3849762623622064168, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4184828696142648193}
+    - targetCorrespondingSourceObject: {fileID: 6919683763462532184, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6076026814985712617}
+    - targetCorrespondingSourceObject: {fileID: 6919683763462532184, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3196147996347838147}
+  m_SourcePrefab: {fileID: 100100000, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+--- !u!1 &3253121015112587734 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6919683763462532184, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+  m_PrefabInstance: {fileID: 5558233499730457998}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6076026814985712617
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3253121015112587734}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0048128124, y: 0.0048128217, z: 0.005750584}
+  m_Center: {x: -0.00000015262049, y: 0.00000024342444, z: 0.00030258758}
+--- !u!114 &3196147996347838147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3253121015112587734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d72b97f0b5d9894c92f5e3aaa13b49c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueCanvas: {fileID: 0}
+  characterImage: {fileID: 0}
+  dialogueText: {fileID: 0}
+  optionsContainer: {fileID: 0}
+  optionPrefab: {fileID: 864434131208811444, guid: 0dae11b3dc85b5945904b2ed7cd7d1da, type: 3}
+  characterSprite: {fileID: 0}
+  player: {fileID: 0}
+  interactionDistance: 3
+  buttonSpacing: 60
+  characterMovementScriptName: CharacterMovement
+  characterController: {fileID: 0}
+  dialogue2: {fileID: 0}
+  dialogueNodes:
+  - dialogueText: "Es sin duda.....\xA1Un cubo!"
+    responses:
+    - "\xA1Estoy muy sorprendido!"
+    nextDialogueIndices: ffffffff
+--- !u!1 &6401171920485754348 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7640558969779515294, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+  m_PrefabInstance: {fileID: 5558233499730457998}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &7006241621993537607
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6401171920485754348}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.028190155, y: 0.0030422357, z: 0.034753256}
+  m_Center: {x: 0.00000017648563, y: 0, z: 0}
+--- !u!1 &8669382410645642662 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3849762623622064168, guid: dd593d60954aa704b860a4a05d5c742f, type: 3}
+  m_PrefabInstance: {fileID: 5558233499730457998}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6750874515200506178
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8669382410645642662}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.023389319, y: 0.02338932, z: 0.013867513}
+  m_Center: {x: 0.00000011920929, y: 0, z: -0.0015491776}
+--- !u!114 &4184828696142648193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8669382410645642662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d72b97f0b5d9894c92f5e3aaa13b49c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueCanvas: {fileID: 0}
+  characterImage: {fileID: 0}
+  dialogueText: {fileID: 0}
+  optionsContainer: {fileID: 0}
+  optionPrefab: {fileID: 864434131208811444, guid: 0dae11b3dc85b5945904b2ed7cd7d1da, type: 3}
+  characterSprite: {fileID: 0}
+  player: {fileID: 0}
+  interactionDistance: 3
+  buttonSpacing: 60
+  characterMovementScriptName: CharacterMovement
+  characterController: {fileID: 0}
+  dialogue2: {fileID: 0}
+  dialogueNodes:
+  - dialogueText: '"Puedes ver el agua en el fondo del pozo"'
+    responses:
+    - Es muy profundo...
+    nextDialogueIndices: ffffffff

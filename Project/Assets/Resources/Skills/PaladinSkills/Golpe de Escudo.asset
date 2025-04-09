@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89557dec81ae674a83b56e30b48672a, type: 3}
+  m_Name: Golpe de Escudo
+  m_EditorClassIdentifier: 
+  Data:
+    Name: Golpe de Escudo
+    ScalingPercent: 0.8
+    UseMagic: 0
+    DiceType: D6
+    RequiredRoll: 5
+    ManaCost: 0
+    attackAnimationTrigger: 
+    skillEffect:
+      applyDamageToAllEnemies: 0
+      applyHealToAllAllies: 0
+      applyBuffToAllAllies: 0
+      applyDefenseDebuffToEnemies: 0
+      baseDamageAmount: 50
+      baseHealAmount: 30
+      baseBuffAmount: 10
+      defenseDebuffAmount: 5
+      statToBuff: 
+  skillName: Golpe de Escudo
+  isPassive: 0
+  skillImage: {fileID: 2800000, guid: d54990e2e248c2640ab57c5e33dbf830, type: 3}
+  langDesc: Embistes con tu escudo al objetivo. d6
+  isCustom: 0
