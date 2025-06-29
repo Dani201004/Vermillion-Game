@@ -2,4 +2,4 @@ A video game developed by a group of three during a specialization course in vid
 Note: The project is for testing and viewing only; modification or other use is not permitted.
 
 
-You can download the game build using the following link: https://drive.google.com/file/d/1dMHQzWn5JomoxLINK8b9HmrBH3YlEk61/view?usp=drive_link
+You can download the game build using the following link: https://drive.google.com/file/d/1tPlUQwXmShjDccX8yEOxAG4l0x0nMnIf/view?usp=drive_link
